@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 300,
+  "experience": 0.55,
+  "ingredient": {
+    "item": "jaizmobs:star_fish"
+  },
+  "result": "jaizmobs:cooked_star_fish"
+}

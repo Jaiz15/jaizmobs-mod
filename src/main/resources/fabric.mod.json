@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "jaizmobs",
+	"version": "${version}",
+	"name": "Jaiz Mobs",
+	"description": "Silly Little Creatures",
+	"authors": [
+		"Jaiz"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/jaizmobs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.jaiz.jaizmobs.JaizMobs"
+		],
+		"client": [
+			"net.jaiz.jaizmobs.JaizMobsClient"
+		],
+		"fabric-datagen": [
+			"net.jaiz.jaizmobs.JaizMobsDataGenerator"
+		]
+	},
+	"mixins": [
+      "jaizmobs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.1",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

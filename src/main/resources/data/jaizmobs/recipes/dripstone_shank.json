@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "key": {
+    "X": {
+      "item": "jaizmobs:dripstone_shard"
+    },
+    "Y": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    "X",
+    "Y"
+  ],
+  "result": {
+    "item": "jaizmobs:dripstone_shank"
+  },
+  "show_notification": true
+}

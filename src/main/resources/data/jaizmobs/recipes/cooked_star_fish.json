@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "jaizmobs:star_fish"
+  },
+  "result": "jaizmobs:cooked_star_fish"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 60,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "minecraft:crimson_fungus"
+  },
+  "result": "jaizmobs:cooked_crimson_fungus"
+}

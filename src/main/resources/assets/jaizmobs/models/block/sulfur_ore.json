@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "jaizmobs:block/sulfur_ore"
+  }
+}

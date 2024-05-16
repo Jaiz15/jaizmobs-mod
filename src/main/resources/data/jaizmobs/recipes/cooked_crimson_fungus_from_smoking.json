@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 10,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:crimson_fungus"
+  },
+  "result": "jaizmobs:cooked_crimson_fungus"
+}

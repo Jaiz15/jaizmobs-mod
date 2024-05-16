@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "jaizmobs:item/eel_on_a_stick"
+  }
+}

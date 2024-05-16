@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "jaizmobs:void_scale_mail_helmet",
+    "jaizmobs:void_scale_mail_chestplate",
+    "jaizmobs:void_scale_mail_leggings",
+    "jaizmobs:void_scale_mail_boots",
+    "jaizmobs:klephtopod_shell",
+    "jaizmobs:klephtopod_chestplate",
+    "jaizmobs:hardened_skull"
+  ]
+}
